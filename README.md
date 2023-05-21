@@ -46,4 +46,37 @@ Voicie le résul obtenue e :
 ![Capture-interface](https://github.com/Starlord9420/toolbox/assets/122219027/1e48c354-c3ff-4855-af9a-a4f50b4b2a42)
 
 
+Pour le script Autonmap
+
+
+le script permet à l'utilisateur de lancer différents types de scans de réseau à l'aide de Nmap en fonction de ses choix. Les résultats des scans sont enregistrés dans un fichier texte pour une utilisation avec le script de conversion pdf pour importer les résultat obtenue dans le fichier pdf en question.
+
+voici une expliquation détailler du script  : 
+Le script commence par définir des variables de couleur pour les messages d'affichage.
+
+Une vérification est effectuée pour savoir si Nmap est déjà installé sur le système. Si Nmap n'est pas installé, le script met à jour le système et installe Nmap à l'aide de la commande apt-get.
+
+L'utilisateur est invité à entrer une adresse cible et les ports ciblés.
+
+Une liste d'options est affichée à l'utilisateur pour choisir le type de scan à effectuer.
+
+L'utilisateur choisit une option et en fonction de son choix, le script exécute la commande correspondante avec Nmap. Les résultats du scan sont redirigés vers un fichier texte.
+
+Le contenu du fichier texte est ensuite modifié en ajoutant une ligne vide après chaque ligne avec la commande sed.
+
+À la fin du script, un message est affiché pour indiquer la fin du programme.
+
+voici une vidéo  qui montre  un tst dit  "standard": 
+
+
+
+
+
+https://github.com/Starlord9420/toolbox/assets/122219027/05638967-0ba7-4622-a82c-069c58db540c
+
+
+
+
+
+
 
