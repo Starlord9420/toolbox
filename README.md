@@ -201,7 +201,7 @@ https://github.com/Starlord9420/toolbox/assets/122219027/63647201-a083-4d4b-8474
 
 
 
-Une fois  bien configurer  nous  pouvons  envoyer des mails  s  sous le format  suivant  :
+Une fois  bien configurer  nous  pouvons  envoyer des mails    sous le format  suivant  :
 
 
 ![Capture-envoi-pdf](https://github.com/Starlord9420/toolbox/assets/122219027/b44d9d08-bdcc-414e-b244-d603c08e38a9)
