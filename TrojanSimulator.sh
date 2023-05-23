@@ -57,6 +57,7 @@ else :
 	exit 1
 fi 	
 
+mkdir -p /var/www/html/share
 
 echo "${NC} Avez-vous un Malware exécutable  ? [Y/N] "
 
