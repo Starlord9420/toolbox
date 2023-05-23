@@ -1,5 +1,5 @@
 # toolbox
-rappel le boite  à outils  est compatible sur  Kali  linux 2023.2  
+rappel le boite  à outils  est compatible sur  Kali  linux 2023.2  à voir  avec les autre  distribution kali-linux
 
 
 
