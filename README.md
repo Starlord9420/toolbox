@@ -1,5 +1,5 @@
 # toolbox
-rappel le boite  à outils  est compatible sur  "...."
+rappel le boite  à outils  est compatible sur  Kali  linux 2023.2  
 
 
 
